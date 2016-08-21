@@ -21,7 +21,6 @@ public:
     */
     explicit Vector( int initSize = 0 ): theSize{ initSize } , theCapacity{ initSize + SPARE_CAPACITY }
     {
-
         objects = new Object[ theCapacity ];
     }
 
