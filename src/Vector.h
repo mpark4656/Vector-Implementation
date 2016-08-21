@@ -206,6 +206,7 @@ public:
     {
         return &objects[size()];
     }
+    
     const_iterator end() const
     {
         return &objects[size()];
