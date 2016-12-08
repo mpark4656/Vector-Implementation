@@ -10,4 +10,4 @@ Textbook example - Data Structures and Algorithm Analysis in C++ by Mark A. Weis
 
 - Vector can now be constructed in the following fashion
 
-std::vector<Object> container = { 1 , 2 , 3 , 4 , 5 };
+my::Vector<Object> container = { 1 , 2 , 3 , 4 , 5 };
